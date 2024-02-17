@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "9jerQIkOKYqoltvnzearwoqLPdxzkoxWdcKn8cZ/px4=",
+  "Source": "HttpHandler",
+  "BasePath": "_content/HttpHandler",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "HttpHandler\\wwwroot",
+      "Source": "HttpHandler",
+      "ContentRoot": "D:\\Программирование интернет-серверов\\HttpHandler\\HttpHandler\\wwwroot\\",
+      "BasePath": "_content/HttpHandler",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
